@@ -28,6 +28,8 @@
   </p>
 
 ![Raw-data](https://github.com/shreyasshivakumara/B.Tech-Project/blob/master/Raw_data.PNG "Raw-data")
+![Time-domain](https://github.com/shreyasshivakumara/B.Tech-Project/blob/master/time-domain.PNG "Time-domain")
+![Frequency-domain of eeg]( https://github.com/shreyasshivakumara/B.Tech-Project/blob/master/frequency%20domain%20of%20eeg.PNG"Frequency-domain of eeg")
 <h3>Results<h3>
   
   
