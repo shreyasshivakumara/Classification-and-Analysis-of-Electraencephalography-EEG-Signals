@@ -27,7 +27,7 @@
   recording. The task is to divide EEG signal into quasi-stationary segments.
   </p>
 
-![Raw-data](https://github.com/shreyasshivakumara/B.Tech-Project/blob/master/Raw_data.PNG.png)
+![Raw-data](https://github.com/shreyasshivakumara/B.Tech-Project/blob/master/Raw_data.PNG)
 <h3>Results<h3>
   
   
